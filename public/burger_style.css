@@ -4,3 +4,12 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+a {
+  color: red;
+  position: static;
+}
+
+.btn {
+  color: transparent;
+}
